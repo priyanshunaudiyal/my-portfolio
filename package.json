@@ -1,7 +1,6 @@
 {
   "name": "tailwind-react-starter",
   "version": "0.1.0",
-  "homepage": "https://priyanshunaudiyal.github.io/my-portfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -17,9 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "react-scripts build"
   },
   "browserslist": {
     "production": [

@@ -10,14 +10,14 @@ const About = () => {
           </h2>
   
           <p className="text-gray-600 text-lg leading-relaxed mb-6">
-            Hey! I’m <span className="font-medium">Priyanshu</span>, a frontend
+            Hey! I'm <span className="font-medium">Priyanshu</span>, a frontend
             developer with a passion for clean UI and intuitive experiences. I
             specialize in building responsive web applications using React, and
-            I’m actively expanding into fullstack development.
+            I'm actively expanding into fullstack development.
           </p>
   
           <p className="text-gray-600 text-lg leading-relaxed mb-6">
-            I’ve worked on projects involving dashboards, AI integrations,
+            I've worked on projects involving dashboards, AI integrations,
             visualizations, and single-page applications — all built with
             performance and accessibility in mind.
           </p>

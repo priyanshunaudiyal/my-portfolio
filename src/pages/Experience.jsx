@@ -2,24 +2,24 @@ const experienceList = [
     {
       role: "Frontend Developer",
       company: "Lawise.ai",
-      duration: "Nov 2024 - Present",
+      duration: "November 2024 - December 2025",
       description:
-        "Building responsive React interfaces and developing internal tools to streamline workflows and enhance user experience.",
+        "Developed and improved legal-tech web applications with a focus on clean UI and responsive design. Worked closely with backend and design teams to ship features, optimize components, and enhance user experience.",
     },
     {
       role: "Machine Learning Intern",
       company: "Remote Project",
-      duration: "Aug 2024 - Oct 2024",
+      duration: "August 2024 - October 2024",
       description:
         "Created an EV population prediction model using Python, Pandas, and various ML algorithms. Decision Tree achieved lowest MSE.",
     },
-    {
-      role: "Freelance React Developer",
-      company: "CA Website",
-      duration: "Jun 2025",
-      description:
-        "Built a personal website for a Chartered Accountant using React and Tailwind.",
-    },
+    // {
+    //   role: "Freelance React Developer",
+    //   company: "CA Website",
+    //   duration: "Jun 2025",
+    //   description:
+    //     "Built a personal website for a Chartered Accountant using React and Tailwind.",
+    // },
   ];
   
   const Experience = () => {

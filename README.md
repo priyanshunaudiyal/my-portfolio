@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! Built using **React** and **Tailwind CSS**, this site showcases my skills, projects, experience, and freelance services in a single-page, scrollable interface. It's fully responsive and deployed via **GitHub Pages**.
 
-🔗 **Live Site:** https://priyanshunaudiyal.github.io/my-portfolio/#/
+🔗 **Live Site:** https://my-portfolio-neon-mu-90.vercel.app
 
 ---
 

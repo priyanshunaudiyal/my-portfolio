@@ -8,7 +8,7 @@ const Resume = () => {
 
       <div className="w-full max-w-4xl h-[80vh] border border-gray-300 rounded shadow-lg overflow-hidden">
         <iframe
-          src="https://drive.google.com/file/d/1wTGXvfTki_iSWoJ6G9Wwc-YnIzFHWbku/preview"
+          src="https://drive.google.com/file/d/18q_323u4q5OjZOHXgPJ5_phVIdH4MeKd/preview"
           className="w-full h-full"
           allow="autoplay"
           title="Priyanshu's Resume"
@@ -16,7 +16,7 @@ const Resume = () => {
       </div>
 
       <a
-        href="https://drive.google.com/uc?export=download&id=1wTGXvfTki_iSWoJ6G9Wwc-YnIzFHWbku"
+        href="https://drive.google.com/uc?export=download&id=18q_323u4q5OjZOHXgPJ5_phVIdH4MeKd"
         target="_blank"
         rel="noopener noreferrer"
         className="mt-6 inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700 transition"

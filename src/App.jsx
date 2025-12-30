@@ -8,6 +8,7 @@ import Freelance from "./pages/Freelance";
 import Experience from "./pages/Experience";
 import Resume from "./pages/Resume";
 import Footer from "./pages/Footer";
+import Testimonials from "./pages/Testimonials";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
                 <About />
                 <Projects />
                 <Experience />
+                <Testimonials />
                 <Resume />
                 <Contact />
                 <Footer />

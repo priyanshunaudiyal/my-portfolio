@@ -81,6 +81,15 @@ const Navbar = () => {
               </li>
               <li>
                 <a
+                  href="#testimonials"
+                  onClick={(e) => handleAnchorClick(e, "#testimonials")}
+                  className="block py-2 md:py-0 hover:text-black"
+                >
+                  Testimonials
+                </a>
+              </li>
+              <li>
+                <a
                   href="#resume"
                   onClick={(e) => handleAnchorClick(e, "#resume")}
                   className="block py-2 md:py-0 hover:text-black"

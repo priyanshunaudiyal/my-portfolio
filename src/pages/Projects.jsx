@@ -10,26 +10,18 @@ const projects = [
   {
     title: "Job Application Tracker",
     description:
-      "A Power BI dashboard analyzing menu item sales, location-wise performance, and 3-month rolling trends.",
-    tech: ["Power BI", "DAX", "Data Modeling"],
+      "A responsive Job & Project Tracking Dashboard that allows users to manage job applications and personal projects in one place with search, filtering, and summary insights, featuring a clean and modern UI.",
+    tech: ["React", "Tailwind CSS", "JavaScript"],
     image: "/job-tracker.png",
     link: "https://job-application-tracker-ashy-six.vercel.app",
   },
   {
-    title: "EV Population Prediction",
+    title: "Admin Dashboard",
     description:
-      "Used Python and multiple ML algorithms to predict the ratio of EVs to total vehicles across Indian states.",
-    tech: ["Python", "Pandas", "Matplotlib", "Decision Tree", "ML"],
-    image: "/ev.png",
-    link: "https://github.com/priyanshunaudiyal/EV-Population-Prediction",
-  },
-  {
-    title: "Southern Restaurant Dashboard",
-    description:
-      "A Power BI dashboard analyzing menu item sales, location-wise performance, and 3-month rolling trends.",
-    tech: ["Power BI", "DAX", "Data Modeling"],
-    image: "/southern.jpeg",
-    link: "https://github.com/priyanshunaudiyal/Southern-Restaurant-Dashboard",
+      "A role-based internal admin dashboard for managing users, content, and activity logs with responsive UI and clean state management.",
+    tech: ["React", "Tailwind CSS", "JavaScript", "React Router"],
+    image: "/admin.png",
+    link: "https://admin-dashboard-six-nu-21.vercel.app/login",
   },
 ];
 

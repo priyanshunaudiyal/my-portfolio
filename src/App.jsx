@@ -1,4 +1,6 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import Snowfall from "react-snowfall";
+
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -13,6 +15,7 @@ import Testimonials from "./pages/Testimonials";
 function App() {
   return (
     <Router>
+      <Snowfall color="#82c3d9"/>
       <Navbar />
       <main className="pt-20">
         <Routes>

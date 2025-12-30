@@ -21,7 +21,7 @@ const projects = [
       "A role-based internal admin dashboard for managing users, content, and activity logs with responsive UI and clean state management.",
     tech: ["React", "Tailwind CSS", "JavaScript", "React Router"],
     image: "/admin.png",
-    link: "https://admin-dashboard-six-nu-21.vercel.app/login",
+    link: "https://admin-dashboard-six-nu-21.vercel.app/",
   },
 ];
 
